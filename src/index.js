@@ -13,6 +13,7 @@ loadPage();
 const logo = document.querySelector('.logo');
 const menu = document.querySelector('.menu');
 const contact = document.querySelector('.contact');
+const content = document.getElementById('content');
 
 logo.addEventListener('click', () => {
   removeChildren(content);

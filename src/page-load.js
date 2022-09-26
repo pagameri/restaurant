@@ -53,7 +53,7 @@ function addMainContent() {
   intro.classList.add('intro');
 
   const p1 = document.createElement('p');
-  p1.textContent = "Welcome to L'Ocale, our stylish bistro where you enjoy a friendly service with a smile, an informal afternoon with friends and family, just as well as a business lunch or dinner after work. Located just a stone's throw from the city centre and it's historic market. The bisto has a fantastic garden in the back that can be enjoyed in the summer and winter";
+  p1.textContent = "Welcome to L'Ocale, our stylish bistro where you enjoy a friendly service with a smile, an informal afternoon with friends and family, just as well as a business lunch or dinner after work. Located just a stone's throw from the city centre and it's historic market. The bistro has a fantastic garden in the back that can be enjoyed in the summer and winter";
   intro.appendChild(p1);
 
   const p2 = document.createElement('p');

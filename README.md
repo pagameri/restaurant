@@ -17,3 +17,7 @@ drinks.jpg - Photo by <a href="https://unsplash.com/@kobbyfotos?utm_source=unspl
 
 contact.jpg - Photo by <a href="https://unsplash.com/@pawel_czerwinski?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Pawel Czerwinski</a> on <a href="https://unsplash.com/s/photos/contact?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
+
+
+Issue of image and content jumping on load:
+- thinking it is to do with the image container, or to the fact that it's size is not defined. 

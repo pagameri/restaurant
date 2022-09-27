@@ -49,9 +49,11 @@ header div {
   overflow: auto;
 }
 
-
-img {
-  width: 100vw;
+.image-container {
+  min-width:450px;
+  max-width: 1920px;
+  min-height: 300px;
+  max-height: 1280px;
 }
 
 h2 {
